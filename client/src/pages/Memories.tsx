@@ -76,50 +76,50 @@ export default function Memories() {
   const displayMemories = (memories && memories.length > 0) ? memories : [
     {
       id: 1,
-      url: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&q=80",
+      url: "https://i.postimg.cc/h4bmw3wK/IMG-20260214-194143.jpg",
       type: "image",
-      caption: "The way you smile",
-      date: "Always",
+      caption: "",
+      date: "",
       rotation: -2
     },
     {
       id: 2,
-      url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&q=80",
+      url: "https://i.postimg.cc/25yRpJTg/IMG-20260214-195635.jpg",
       type: "image",
-      caption: "Beautiful moments",
-      date: "Spring 2023",
+      caption: "",
+      date: "",
       rotation: 3
     },
     {
       id: 3,
-      url: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
+      url: "https://i.postimg.cc/vHCGvGzB/IMG-20260214-195331.jpg",
       type: "image",
-      caption: "Never letting go",
-      date: "Forever",
+      caption: "",
+      date: "",
       rotation: -4
     },
     {
       id: 4,
-      url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&q=80",
+      url: "https://i.postimg.cc/dVkxcSf6/IMG-20260214-223227.jpg",
       type: "image",
-      caption: "Chasing sunsets",
-      date: "Summer Vacation",
+      caption: "",
+      date: "",
       rotation: 2
     },
     {
       id: 5,
-      url: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
+      url: "https://i.postimg.cc/432KZDGw/IMG-20260214-200518.jpg",
       type: "image",
-      caption: "Surprises",
-      date: "Your Birthday",
+      caption: "",
+      date: "",
       rotation: 5
     },
     {
       id: 6,
-      url: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&q=80",
+      url: "https://i.postimg.cc/ZR3Jg25q/IMG-20260214-200554.jpg",
       type: "image",
-      caption: "Coffee dates",
-      date: "Every Weekend",
+      caption: "",
+      date: "",
       rotation: -3
     }
   ];
