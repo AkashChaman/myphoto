@@ -57,8 +57,8 @@ export default function Surprise() {
     })();
   };
 
-  const surpriseText = "You are the best gift I could ever ask for. Get ready for a special dinner tonight!";
-  const text = "Or replace this with your actual surprise coupon/message";
+  const surpriseText = "You are the best gift I could ever ask for Janani. Get ready for a special movie date soon! 🎬✨";
+  const text = "You make my world brighter just by being in it. 💖";
 
   return (
     <div className="min-h-screen flex items-center justify-center p-4 relative overflow-hidden bg-gradient-to-br from-rose-50 via-pink-50 to-purple-50">
