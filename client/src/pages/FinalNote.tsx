@@ -154,7 +154,7 @@ export default function FinalNote() {
               </motion.div>
 
               <h1 className="font-handwriting text-2xl sm:text-3xl md:text-4xl text-transparent bg-clip-text bg-gradient-to-r from-amber-700 via-rose-600 to-pink-600">
-                My Dearest {name || "Love"}
+                My Dear Janani
               </h1>
 
               <div className="flex items-center justify-center gap-2">
@@ -211,7 +211,7 @@ export default function FinalNote() {
               </div>
 
               <p className="font-handwriting text-xl sm:text-2xl md:text-3xl text-transparent bg-clip-text bg-gradient-to-r from-rose-600 to-pink-600">
-                Forever Yours
+                By Akash Chaman KP
               </p>
 
               <motion.div
